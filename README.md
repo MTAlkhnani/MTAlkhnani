@@ -1,4 +1,4 @@
-## All of my projects are private
+## All of my repos are private
 
 
 
