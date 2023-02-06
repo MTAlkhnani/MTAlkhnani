@@ -1,13 +1,6 @@
-## All of my repos are private
-
-
-
-
-- 👋 Hi, I’m ****
-- 👀 I’m interested in ****
-- 🌱 I’m currently learning ****
-- 💞️ I’m looking to collaborate on ****
-- 📫 How to reach me ****
+- 👋 Hi, I’m Mohammed Alkhnani
+- 👀 I’m interested in Mobile Development, Data Science and Competitive Programming
+- 🌱 I’m currently learning Web Development
 
 <!---
 MTAlkhnani/MTAlkhnani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
