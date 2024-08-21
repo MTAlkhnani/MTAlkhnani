@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Alkhnani  
 - 👀 I’m interested in Web Development, AI, and Cybersecurtiy.
-- 🌱 I’m currently learning and impproving my Web Development skills.
+- 🌱 I’m currently learning and improving my Web Development skills.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
